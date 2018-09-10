@@ -1,6 +1,8 @@
 # AndroidMDMySQLSave
 Android MySQL : How to save into multiple columns in MySQL database.
 
+Here's the full tutorial http://camposha.info/source/android-mysql-insert-save
+
 * Connect to MySQL from android app.
 * We have to use a serverside language in this case PHP.
 * We make a HTTP POST to the server.
